@@ -1,0 +1,27 @@
+#hardware{
+	border: 1px solid #CCCCCC;
+	
+	/*width: 541px;*/
+	height: 486px;
+	float: left;
+	/*margin-left: 297px;*/
+	padding: 12px;
+}
+
+#nota{
+	border: 1px solid #CCCCCC;
+	
+	width: 541px;
+	height: 251px;
+	float: left;
+	margin: 22px 0px 0px 559px;
+	padding: 20px;
+
+
+}
+
+#button{
+	float: left;
+	margin-left: 98px;
+
+}
